@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\PMT_bài thi 2324\\MvcMovie\\MvcMovie.csproj",
+      "projectUniqueName": "E:\\PMT_bài thi 2324\\PMT_BAITHI2324\\MvcMovie.csproj",
       "projectName": "MvcMovie",
-      "projectPath": "E:\\PMT_bài thi 2324\\MvcMovie\\MvcMovie.csproj",
+      "projectPath": "E:\\PMT_bài thi 2324\\PMT_BAITHI2324\\MvcMovie.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "E:\\PMT_bài thi 2324\\MvcMovie\\obj\\",
+      "outputPath": "E:\\PMT_bài thi 2324\\PMT_BAITHI2324\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config"

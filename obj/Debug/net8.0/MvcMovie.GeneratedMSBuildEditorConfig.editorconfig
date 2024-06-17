@@ -9,39 +9,43 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = MvcMovie
 build_property.RootNamespace = MvcMovie
-build_property.ProjectDir = D:\test\Test\
+build_property.ProjectDir = E:\PMT_bài thi 2324\PMT_BAITHI2324\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\test\Test
+build_property.MSBuildProjectDirectory = E:\PMT_bài thi 2324\PMT_BAITHI2324
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/test/Test/Views/Lophoc/Create.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9waG9jXENyZWF0ZS5jc2h0bWw=
+[E:/PMT_bài thi 2324/PMT_BAITHI2324/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/test/Test/Views/Lophoc/Delete.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9waG9jXERlbGV0ZS5jc2h0bWw=
+[E:/PMT_bài thi 2324/PMT_BAITHI2324/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/test/Test/Views/Lophoc/Details.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9waG9jXERldGFpbHMuY3NodG1s
+[E:/PMT_bài thi 2324/PMT_BAITHI2324/Views/Person/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVyc29uXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/test/Test/Views/Lophoc/Edit.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9waG9jXEVkaXQuY3NodG1s
+[E:/PMT_bài thi 2324/PMT_BAITHI2324/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/test/Test/Views/Lophoc/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9waG9jXEluZGV4LmNzaHRtbA==
+[E:/PMT_bài thi 2324/PMT_BAITHI2324/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/test/Test/Views/_ViewImports.cshtml]
+[E:/PMT_bài thi 2324/PMT_BAITHI2324/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/test/Test/Views/_ViewStart.cshtml]
+[E:/PMT_bài thi 2324/PMT_BAITHI2324/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
+
+[E:/PMT_bài thi 2324/PMT_BAITHI2324/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-0uvum7rpp4
